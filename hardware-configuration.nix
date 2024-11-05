@@ -50,6 +50,7 @@
 
   hardware.opengl = {
     enable = true;
+    driSupport = true;
   };
 
   hardware.nvidia = {
