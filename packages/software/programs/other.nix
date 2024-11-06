@@ -27,5 +27,8 @@
 
     haguichi
     logmein-hamachi
+
+    libnotify
+    btop
   ];
 }

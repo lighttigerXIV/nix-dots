@@ -5,6 +5,6 @@
     starship
 
     # Terminal Emulators
-    wezterm
+    kitty
   ];
 }
